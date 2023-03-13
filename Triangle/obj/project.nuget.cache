@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "exfeKlmpuOHYaW94Z0nl8bRHJEXeKFFe+dQnLEAiJP3MEy7Oqb+uKAJb5vrs6bVRXrHRT2Uc9ngJo9KL0mmbdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KirillMG\\OneDrive\\Рабочий стол\\Проекты\\Важные\\Triangle\\Triangle\\Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KirillMG\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\KirillMG\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
